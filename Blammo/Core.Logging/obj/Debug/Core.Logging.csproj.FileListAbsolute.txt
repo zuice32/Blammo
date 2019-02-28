@@ -44,3 +44,16 @@ G:\programming portfolio\Agent\Core.Logging\obj\Debug\Core.Logging.csproj.CoreCo
 G:\programming portfolio\Agent\Core.Logging\obj\Debug\Core.Logging.csproj.CopyComplete
 G:\programming portfolio\Agent\Core.Logging\obj\Debug\Agent.Core.Logging.dll
 G:\programming portfolio\Agent\Core.Logging\obj\Debug\Agent.Core.Logging.pdb
+C:\Users\hexpixel\Desktop\Log\Blammo\Core.Logging\bin\Debug\Agent.Core.Logging.dll
+C:\Users\hexpixel\Desktop\Log\Blammo\Core.Logging\bin\Debug\Agent.Core.Logging.pdb
+C:\Users\hexpixel\Desktop\Log\Blammo\Core.Logging\bin\Debug\Agent.Common.dll
+C:\Users\hexpixel\Desktop\Log\Blammo\Core.Logging\bin\Debug\Agent.Core.dll
+C:\Users\hexpixel\Desktop\Log\Blammo\Core.Logging\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hexpixel\Desktop\Log\Blammo\Core.Logging\bin\Debug\Agent.Common.pdb
+C:\Users\hexpixel\Desktop\Log\Blammo\Core.Logging\bin\Debug\Agent.Core.pdb
+C:\Users\hexpixel\Desktop\Log\Blammo\Core.Logging\bin\Debug\Newtonsoft.Json.xml
+C:\Users\hexpixel\Desktop\Log\Blammo\Core.Logging\obj\Debug\Core.Logging.csprojAssemblyReference.cache
+C:\Users\hexpixel\Desktop\Log\Blammo\Core.Logging\obj\Debug\Core.Logging.csproj.CoreCompileInputs.cache
+C:\Users\hexpixel\Desktop\Log\Blammo\Core.Logging\obj\Debug\Core.Logging.csproj.CopyComplete
+C:\Users\hexpixel\Desktop\Log\Blammo\Core.Logging\obj\Debug\Agent.Core.Logging.dll
+C:\Users\hexpixel\Desktop\Log\Blammo\Core.Logging\obj\Debug\Agent.Core.Logging.pdb

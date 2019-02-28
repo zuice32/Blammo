@@ -84,3 +84,34 @@ G:\programming portfolio\Agent\Core.Logging.Sqlite.Tests\obj\Debug\Core.Logging.
 G:\programming portfolio\Agent\Core.Logging.Sqlite.Tests\obj\Debug\Core.Logging.Sqlite.Tests.csproj.CopyComplete
 G:\programming portfolio\Agent\Core.Logging.Sqlite.Tests\obj\Debug\Core.Logging.Sqlite.Tests.dll
 G:\programming portfolio\Agent\Core.Logging.Sqlite.Tests\obj\Debug\Core.Logging.Sqlite.Tests.pdb
+C:\Users\hexpixel\Desktop\Log\Blammo\Core.Logging.Sqlite.Tests\bin\Debug\x86\sqlite3.dll
+C:\Users\hexpixel\Desktop\Log\Blammo\Core.Logging.Sqlite.Tests\bin\Debug\x64\sqlite3.dll
+C:\Users\hexpixel\Desktop\Log\Blammo\Core.Logging.Sqlite.Tests\bin\Debug\Core.Logging.Sqlite.Tests.dll.config
+C:\Users\hexpixel\Desktop\Log\Blammo\Core.Logging.Sqlite.Tests\bin\Debug\Core.Logging.Sqlite.Tests.dll
+C:\Users\hexpixel\Desktop\Log\Blammo\Core.Logging.Sqlite.Tests\bin\Debug\Core.Logging.Sqlite.Tests.pdb
+C:\Users\hexpixel\Desktop\Log\Blammo\Core.Logging.Sqlite.Tests\bin\Debug\Agent.Core.dll
+C:\Users\hexpixel\Desktop\Log\Blammo\Core.Logging.Sqlite.Tests\bin\Debug\Agent.Core.Logging.dll
+C:\Users\hexpixel\Desktop\Log\Blammo\Core.Logging.Sqlite.Tests\bin\Debug\Agent.Core.Logging.Sqlite.dll
+C:\Users\hexpixel\Desktop\Log\Blammo\Core.Logging.Sqlite.Tests\bin\Debug\EntityFramework.dll
+C:\Users\hexpixel\Desktop\Log\Blammo\Core.Logging.Sqlite.Tests\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hexpixel\Desktop\Log\Blammo\Core.Logging.Sqlite.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\hexpixel\Desktop\Log\Blammo\Core.Logging.Sqlite.Tests\bin\Debug\System.Data.SQLite.dll
+C:\Users\hexpixel\Desktop\Log\Blammo\Core.Logging.Sqlite.Tests\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\hexpixel\Desktop\Log\Blammo\Core.Logging.Sqlite.Tests\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\hexpixel\Desktop\Log\Blammo\Core.Logging.Sqlite.Tests\bin\Debug\Agent.Common.dll
+C:\Users\hexpixel\Desktop\Log\Blammo\Core.Logging.Sqlite.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hexpixel\Desktop\Log\Blammo\Core.Logging.Sqlite.Tests\bin\Debug\Agent.Core.Logging.Sqlite.pdb
+C:\Users\hexpixel\Desktop\Log\Blammo\Core.Logging.Sqlite.Tests\bin\Debug\Agent.Core.Logging.Sqlite.dll.config
+C:\Users\hexpixel\Desktop\Log\Blammo\Core.Logging.Sqlite.Tests\bin\Debug\Agent.Core.Logging.pdb
+C:\Users\hexpixel\Desktop\Log\Blammo\Core.Logging.Sqlite.Tests\bin\Debug\Agent.Core.pdb
+C:\Users\hexpixel\Desktop\Log\Blammo\Core.Logging.Sqlite.Tests\bin\Debug\EntityFramework.xml
+C:\Users\hexpixel\Desktop\Log\Blammo\Core.Logging.Sqlite.Tests\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hexpixel\Desktop\Log\Blammo\Core.Logging.Sqlite.Tests\bin\Debug\System.Data.SQLite.xml
+C:\Users\hexpixel\Desktop\Log\Blammo\Core.Logging.Sqlite.Tests\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\hexpixel\Desktop\Log\Blammo\Core.Logging.Sqlite.Tests\bin\Debug\Agent.Common.pdb
+C:\Users\hexpixel\Desktop\Log\Blammo\Core.Logging.Sqlite.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\hexpixel\Desktop\Log\Blammo\Core.Logging.Sqlite.Tests\obj\Debug\Core.Logging.Sqlite.Tests.csprojAssemblyReference.cache
+C:\Users\hexpixel\Desktop\Log\Blammo\Core.Logging.Sqlite.Tests\obj\Debug\Core.Logging.Sqlite.Tests.csproj.CoreCompileInputs.cache
+C:\Users\hexpixel\Desktop\Log\Blammo\Core.Logging.Sqlite.Tests\obj\Debug\Core.Logging.Sqlite.Tests.csproj.CopyComplete
+C:\Users\hexpixel\Desktop\Log\Blammo\Core.Logging.Sqlite.Tests\obj\Debug\Core.Logging.Sqlite.Tests.dll
+C:\Users\hexpixel\Desktop\Log\Blammo\Core.Logging.Sqlite.Tests\obj\Debug\Core.Logging.Sqlite.Tests.pdb

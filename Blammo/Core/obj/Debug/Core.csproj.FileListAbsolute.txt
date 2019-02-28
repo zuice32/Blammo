@@ -28,3 +28,14 @@ G:\programming portfolio\Agent\Core\obj\Debug\Core.csproj.CoreCompileInputs.cach
 G:\programming portfolio\Agent\Core\obj\Debug\Core.csproj.CopyComplete
 G:\programming portfolio\Agent\Core\obj\Debug\Agent.Core.dll
 G:\programming portfolio\Agent\Core\obj\Debug\Agent.Core.pdb
+C:\Users\hexpixel\Desktop\Log\Blammo\Core\bin\Debug\Agent.Core.dll
+C:\Users\hexpixel\Desktop\Log\Blammo\Core\bin\Debug\Agent.Core.pdb
+C:\Users\hexpixel\Desktop\Log\Blammo\Core\bin\Debug\Agent.Common.dll
+C:\Users\hexpixel\Desktop\Log\Blammo\Core\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hexpixel\Desktop\Log\Blammo\Core\bin\Debug\Agent.Common.pdb
+C:\Users\hexpixel\Desktop\Log\Blammo\Core\bin\Debug\Newtonsoft.Json.xml
+C:\Users\hexpixel\Desktop\Log\Blammo\Core\obj\Debug\Core.csprojAssemblyReference.cache
+C:\Users\hexpixel\Desktop\Log\Blammo\Core\obj\Debug\Core.csproj.CoreCompileInputs.cache
+C:\Users\hexpixel\Desktop\Log\Blammo\Core\obj\Debug\Core.csproj.CopyComplete
+C:\Users\hexpixel\Desktop\Log\Blammo\Core\obj\Debug\Agent.Core.dll
+C:\Users\hexpixel\Desktop\Log\Blammo\Core\obj\Debug\Agent.Core.pdb

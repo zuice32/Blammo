@@ -17,3 +17,9 @@ G:\programming portfolio\Agent\Common\bin\Debug\Agent.Common.pdb
 G:\programming portfolio\Agent\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
 G:\programming portfolio\Agent\Common\obj\Debug\Agent.Common.dll
 G:\programming portfolio\Agent\Common\obj\Debug\Agent.Common.pdb
+C:\Users\hexpixel\Desktop\Log\Blammo\Common\bin\Debug\Agent.Common.dll
+C:\Users\hexpixel\Desktop\Log\Blammo\Common\bin\Debug\Agent.Common.pdb
+C:\Users\hexpixel\Desktop\Log\Blammo\Common\obj\Debug\Common.csprojAssemblyReference.cache
+C:\Users\hexpixel\Desktop\Log\Blammo\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\hexpixel\Desktop\Log\Blammo\Common\obj\Debug\Agent.Common.dll
+C:\Users\hexpixel\Desktop\Log\Blammo\Common\obj\Debug\Agent.Common.pdb

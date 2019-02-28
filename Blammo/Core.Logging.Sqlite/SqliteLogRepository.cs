@@ -3,7 +3,7 @@ using System.Data;
 using System.Data.SQLite;
 using System.IO;
 using Agent.Core.Application;
-using Agent.Sqlite;
+
 
 namespace Agent.Core.Logging.Sqlite
 {
