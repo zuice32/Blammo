@@ -1,0 +1,22 @@
+C:\Users\sthorndike\Documents\Visual Studio 2013\Projects\geonet-agent-dev\Core.Logging\bin\Release\Agent.Core.Logging.dll
+C:\Users\sthorndike\Documents\Visual Studio 2013\Projects\geonet-agent-dev\Core.Logging\bin\Release\Agent.Core.Logging.pdb
+C:\Users\sthorndike\Documents\Visual Studio 2013\Projects\geonet-agent-dev\Core.Logging\bin\Release\Agent.Common.dll
+C:\Users\sthorndike\Documents\Visual Studio 2013\Projects\geonet-agent-dev\Core.Logging\bin\Release\Agent.Core.dll
+C:\Users\sthorndike\Documents\Visual Studio 2013\Projects\geonet-agent-dev\Core.Logging\bin\Release\Agent.Common.pdb
+C:\Users\sthorndike\Documents\Visual Studio 2013\Projects\geonet-agent-dev\Core.Logging\bin\Release\Agent.Core.pdb
+C:\Users\sthorndike\Documents\Visual Studio 2013\Projects\geonet-agent-dev\Core.Logging\obj\Release\Agent.Core.Logging.dll
+C:\Users\sthorndike\Documents\Visual Studio 2013\Projects\geonet-agent-dev\Core.Logging\obj\Release\Agent.Core.Logging.pdb
+C:\Users\sthorndike\Documents\Visual Studio 2013\Projects\geonet-agent-dev\Core.Logging\obj\Release\Core.Logging.csprojResolveAssemblyReference.cache
+C:\Users\sthorndike\Documents\Visual Studio 2013\Projects\geonet-agent-dev\Core.Logging\bin\Release\Newtonsoft.Json.dll
+C:\Users\sthorndike\Documents\Visual Studio 2013\Projects\geonet-agent-dev\Core.Logging\bin\Release\Newtonsoft.Json.xml
+C:\Users\Zuice\Downloads\Agent\Core.Logging\bin\Release\Agent.Core.Logging.dll
+C:\Users\Zuice\Downloads\Agent\Core.Logging\bin\Release\Agent.Core.Logging.pdb
+C:\Users\Zuice\Downloads\Agent\Core.Logging\bin\Release\Agent.Common.dll
+C:\Users\Zuice\Downloads\Agent\Core.Logging\bin\Release\Agent.Core.dll
+C:\Users\Zuice\Downloads\Agent\Core.Logging\bin\Release\Newtonsoft.Json.dll
+C:\Users\Zuice\Downloads\Agent\Core.Logging\bin\Release\Agent.Common.pdb
+C:\Users\Zuice\Downloads\Agent\Core.Logging\bin\Release\Agent.Core.pdb
+C:\Users\Zuice\Downloads\Agent\Core.Logging\bin\Release\Newtonsoft.Json.xml
+C:\Users\Zuice\Downloads\Agent\Core.Logging\obj\Release\Core.Logging.csprojResolveAssemblyReference.cache
+C:\Users\Zuice\Downloads\Agent\Core.Logging\obj\Release\Agent.Core.Logging.dll
+C:\Users\Zuice\Downloads\Agent\Core.Logging\obj\Release\Agent.Core.Logging.pdb

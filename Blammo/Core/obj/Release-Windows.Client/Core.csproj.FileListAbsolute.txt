@@ -1,0 +1,13 @@
+C:\Users\sthorndike\Documents\Visual Studio 2013\Projects\geonet-agent-dev\Core\bin\Release-Windows.Client\Agent.Core.dll
+C:\Users\sthorndike\Documents\Visual Studio 2013\Projects\geonet-agent-dev\Core\bin\Release-Windows.Client\Agent.Core.pdb
+C:\Users\sthorndike\Documents\Visual Studio 2013\Projects\geonet-agent-dev\Core\bin\Release-Windows.Client\Newtonsoft.Json.dll
+C:\Users\sthorndike\Documents\Visual Studio 2013\Projects\geonet-agent-dev\Core\bin\Release-Windows.Client\Newtonsoft.Json.xml
+C:\Users\sthorndike\Documents\Visual Studio 2013\Projects\geonet-agent-dev\Core\obj\Release-Windows.Client\Agent.Core.dll
+C:\Users\sthorndike\Documents\Visual Studio 2013\Projects\geonet-agent-dev\Core\obj\Release-Windows.Client\Agent.Core.pdb
+C:\Users\Zuice\Downloads\Agent\Core\bin\Release-Windows.Client\Agent.Core.dll
+C:\Users\Zuice\Downloads\Agent\Core\bin\Release-Windows.Client\Agent.Core.pdb
+C:\Users\Zuice\Downloads\Agent\Core\bin\Release-Windows.Client\Newtonsoft.Json.dll
+C:\Users\Zuice\Downloads\Agent\Core\bin\Release-Windows.Client\Newtonsoft.Json.xml
+C:\Users\Zuice\Downloads\Agent\Core\obj\Release-Windows.Client\Agent.Core.dll
+C:\Users\Zuice\Downloads\Agent\Core\obj\Release-Windows.Client\Agent.Core.pdb
+C:\Users\Zuice\Downloads\Agent\Core\obj\Release-Windows.Client\Core.csprojResolveAssemblyReference.cache

@@ -1,0 +1,18 @@
+C:\Users\sthorndike\Documents\Visual Studio 2013\Projects\geonet-agent-dev\Core.Exceptions\bin\Release-Windows.Client\Agent.Core.Exceptions.dll
+C:\Users\sthorndike\Documents\Visual Studio 2013\Projects\geonet-agent-dev\Core.Exceptions\bin\Release-Windows.Client\Agent.Core.Exceptions.pdb
+C:\Users\sthorndike\Documents\Visual Studio 2013\Projects\geonet-agent-dev\Core.Exceptions\bin\Release-Windows.Client\Agent.Core.dll
+C:\Users\sthorndike\Documents\Visual Studio 2013\Projects\geonet-agent-dev\Core.Exceptions\bin\Release-Windows.Client\Newtonsoft.Json.dll
+C:\Users\sthorndike\Documents\Visual Studio 2013\Projects\geonet-agent-dev\Core.Exceptions\bin\Release-Windows.Client\Agent.Core.pdb
+C:\Users\sthorndike\Documents\Visual Studio 2013\Projects\geonet-agent-dev\Core.Exceptions\bin\Release-Windows.Client\Newtonsoft.Json.xml
+C:\Users\sthorndike\Documents\Visual Studio 2013\Projects\geonet-agent-dev\Core.Exceptions\obj\Release-Windows.Client\Core.Exceptions.csprojResolveAssemblyReference.cache
+C:\Users\sthorndike\Documents\Visual Studio 2013\Projects\geonet-agent-dev\Core.Exceptions\obj\Release-Windows.Client\Agent.Core.Exceptions.dll
+C:\Users\sthorndike\Documents\Visual Studio 2013\Projects\geonet-agent-dev\Core.Exceptions\obj\Release-Windows.Client\Agent.Core.Exceptions.pdb
+C:\Users\Zuice\Downloads\Agent\Core.Exceptions\bin\Release-Windows.Client\Agent.Core.Exceptions.dll
+C:\Users\Zuice\Downloads\Agent\Core.Exceptions\bin\Release-Windows.Client\Agent.Core.Exceptions.pdb
+C:\Users\Zuice\Downloads\Agent\Core.Exceptions\bin\Release-Windows.Client\Agent.Core.dll
+C:\Users\Zuice\Downloads\Agent\Core.Exceptions\bin\Release-Windows.Client\Newtonsoft.Json.dll
+C:\Users\Zuice\Downloads\Agent\Core.Exceptions\bin\Release-Windows.Client\Agent.Core.pdb
+C:\Users\Zuice\Downloads\Agent\Core.Exceptions\bin\Release-Windows.Client\Newtonsoft.Json.xml
+C:\Users\Zuice\Downloads\Agent\Core.Exceptions\obj\Release-Windows.Client\Core.Exceptions.csprojResolveAssemblyReference.cache
+C:\Users\Zuice\Downloads\Agent\Core.Exceptions\obj\Release-Windows.Client\Agent.Core.Exceptions.dll
+C:\Users\Zuice\Downloads\Agent\Core.Exceptions\obj\Release-Windows.Client\Agent.Core.Exceptions.pdb

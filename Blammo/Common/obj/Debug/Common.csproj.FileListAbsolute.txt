@@ -1,0 +1,19 @@
+C:\Users\sthorndike\Documents\Visual Studio 2013\Projects\geonet-agent-dev\Common\bin\Debug\Agent.Common.dll
+C:\Users\sthorndike\Documents\Visual Studio 2013\Projects\geonet-agent-dev\Common\bin\Debug\Agent.Common.pdb
+C:\Users\sthorndike\Documents\Visual Studio 2013\Projects\geonet-agent-dev\Common\obj\Debug\Agent.Common.dll
+C:\Users\sthorndike\Documents\Visual Studio 2013\Projects\geonet-agent-dev\Common\obj\Debug\Agent.Common.pdb
+C:\Users\sthorndike\Documents\Visual Studio 2013\Projects\geonet-agent-dev\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+C:\Users\Zuice\Downloads\Agent\Common\bin\Debug\Agent.Common.dll
+C:\Users\Zuice\Downloads\Agent\Common\bin\Debug\Agent.Common.pdb
+C:\Users\Zuice\Downloads\Agent\Common\obj\Debug\Agent.Common.dll
+C:\Users\Zuice\Downloads\Agent\Common\obj\Debug\Agent.Common.pdb
+C:\Users\Zuice\Downloads\Agent\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+E:\programming portfolio\Agent\Common\bin\Debug\Agent.Common.dll
+E:\programming portfolio\Agent\Common\bin\Debug\Agent.Common.pdb
+E:\programming portfolio\Agent\Common\obj\Debug\Agent.Common.dll
+E:\programming portfolio\Agent\Common\obj\Debug\Agent.Common.pdb
+G:\programming portfolio\Agent\Common\bin\Debug\Agent.Common.dll
+G:\programming portfolio\Agent\Common\bin\Debug\Agent.Common.pdb
+G:\programming portfolio\Agent\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+G:\programming portfolio\Agent\Common\obj\Debug\Agent.Common.dll
+G:\programming portfolio\Agent\Common\obj\Debug\Agent.Common.pdb

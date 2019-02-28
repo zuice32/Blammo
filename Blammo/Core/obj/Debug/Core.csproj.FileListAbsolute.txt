@@ -1,0 +1,30 @@
+C:\Users\sthorndike\Documents\Visual Studio 2013\Projects\geonet-agent-dev\Core\bin\Debug\Agent.Core.dll
+C:\Users\sthorndike\Documents\Visual Studio 2013\Projects\geonet-agent-dev\Core\bin\Debug\Agent.Core.pdb
+C:\Users\sthorndike\Documents\Visual Studio 2013\Projects\geonet-agent-dev\Core\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sthorndike\Documents\Visual Studio 2013\Projects\geonet-agent-dev\Core\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sthorndike\Documents\Visual Studio 2013\Projects\geonet-agent-dev\Core\obj\Debug\Agent.Core.dll
+C:\Users\sthorndike\Documents\Visual Studio 2013\Projects\geonet-agent-dev\Core\obj\Debug\Agent.Core.pdb
+C:\Users\sthorndike\Documents\Visual Studio 2013\Projects\geonet-agent-dev\Core\obj\Debug\Core.csprojResolveAssemblyReference.cache
+C:\Users\Zuice\Downloads\Agent\Core\bin\Debug\Agent.Core.dll
+C:\Users\Zuice\Downloads\Agent\Core\bin\Debug\Agent.Core.pdb
+C:\Users\Zuice\Downloads\Agent\Core\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Zuice\Downloads\Agent\Core\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Zuice\Downloads\Agent\Core\obj\Debug\Agent.Core.dll
+C:\Users\Zuice\Downloads\Agent\Core\obj\Debug\Agent.Core.pdb
+C:\Users\Zuice\Downloads\Agent\Core\obj\Debug\Core.csprojResolveAssemblyReference.cache
+E:\programming portfolio\Agent\Core\bin\Debug\Agent.Core.dll
+E:\programming portfolio\Agent\Core\bin\Debug\Agent.Core.pdb
+E:\programming portfolio\Agent\Core\bin\Debug\Newtonsoft.Json.dll
+E:\programming portfolio\Agent\Core\bin\Debug\Newtonsoft.Json.xml
+E:\programming portfolio\Agent\Core\obj\Debug\Agent.Core.dll
+E:\programming portfolio\Agent\Core\obj\Debug\Agent.Core.pdb
+E:\programming portfolio\Agent\Core\obj\Debug\Core.csprojResolveAssemblyReference.cache
+G:\programming portfolio\Agent\Core\bin\Debug\Agent.Core.dll
+G:\programming portfolio\Agent\Core\bin\Debug\Agent.Core.pdb
+G:\programming portfolio\Agent\Core\bin\Debug\Newtonsoft.Json.dll
+G:\programming portfolio\Agent\Core\bin\Debug\Newtonsoft.Json.xml
+G:\programming portfolio\Agent\Core\obj\Debug\Core.csprojAssemblyReference.cache
+G:\programming portfolio\Agent\Core\obj\Debug\Core.csproj.CoreCompileInputs.cache
+G:\programming portfolio\Agent\Core\obj\Debug\Core.csproj.CopyComplete
+G:\programming portfolio\Agent\Core\obj\Debug\Agent.Core.dll
+G:\programming portfolio\Agent\Core\obj\Debug\Agent.Core.pdb

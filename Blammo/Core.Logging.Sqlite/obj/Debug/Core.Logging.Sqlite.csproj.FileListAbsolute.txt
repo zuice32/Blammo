@@ -1,0 +1,78 @@
+C:\Users\sthorndike\Documents\Visual Studio 2013\Projects\geonet-agent-dev\Core.Logging.Sqlite\bin\Debug\x64\SQLite.Interop.dll
+C:\Users\sthorndike\Documents\Visual Studio 2013\Projects\geonet-agent-dev\Core.Logging.Sqlite\bin\Debug\x86\SQLite.Interop.dll
+C:\Users\sthorndike\Documents\Visual Studio 2013\Projects\geonet-agent-dev\Core.Logging.Sqlite\bin\Debug\Agent.Core.Logging.Sqlite.dll
+C:\Users\sthorndike\Documents\Visual Studio 2013\Projects\geonet-agent-dev\Core.Logging.Sqlite\bin\Debug\Agent.Core.Logging.Sqlite.pdb
+C:\Users\sthorndike\Documents\Visual Studio 2013\Projects\geonet-agent-dev\Core.Logging.Sqlite\bin\Debug\Agent.Core.dll
+C:\Users\sthorndike\Documents\Visual Studio 2013\Projects\geonet-agent-dev\Core.Logging.Sqlite\bin\Debug\Agent.Core.Logging.dll
+C:\Users\sthorndike\Documents\Visual Studio 2013\Projects\geonet-agent-dev\Core.Logging.Sqlite\bin\Debug\Agent.Sqlite.dll
+C:\Users\sthorndike\Documents\Visual Studio 2013\Projects\geonet-agent-dev\Core.Logging.Sqlite\bin\Debug\System.Data.SQLite.dll
+C:\Users\sthorndike\Documents\Visual Studio 2013\Projects\geonet-agent-dev\Core.Logging.Sqlite\bin\Debug\Agent.Common.dll
+C:\Users\sthorndike\Documents\Visual Studio 2013\Projects\geonet-agent-dev\Core.Logging.Sqlite\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sthorndike\Documents\Visual Studio 2013\Projects\geonet-agent-dev\Core.Logging.Sqlite\bin\Debug\Agent.Core.Logging.pdb
+C:\Users\sthorndike\Documents\Visual Studio 2013\Projects\geonet-agent-dev\Core.Logging.Sqlite\bin\Debug\Agent.Core.pdb
+C:\Users\sthorndike\Documents\Visual Studio 2013\Projects\geonet-agent-dev\Core.Logging.Sqlite\bin\Debug\Agent.Sqlite.pdb
+C:\Users\sthorndike\Documents\Visual Studio 2013\Projects\geonet-agent-dev\Core.Logging.Sqlite\bin\Debug\System.Data.SQLite.xml
+C:\Users\sthorndike\Documents\Visual Studio 2013\Projects\geonet-agent-dev\Core.Logging.Sqlite\bin\Debug\Agent.Common.pdb
+C:\Users\sthorndike\Documents\Visual Studio 2013\Projects\geonet-agent-dev\Core.Logging.Sqlite\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sthorndike\Documents\Visual Studio 2013\Projects\geonet-agent-dev\Core.Logging.Sqlite\obj\Debug\Agent.Core.Logging.Sqlite.dll
+C:\Users\sthorndike\Documents\Visual Studio 2013\Projects\geonet-agent-dev\Core.Logging.Sqlite\obj\Debug\Agent.Core.Logging.Sqlite.pdb
+C:\Users\sthorndike\Documents\Visual Studio 2013\Projects\geonet-agent-dev\Core.Logging.Sqlite\obj\Debug\Core.Logging.Sqlite.csprojResolveAssemblyReference.cache
+C:\Users\Zuice\Downloads\Agent\Core.Logging.Sqlite\bin\Debug\x64\SQLite.Interop.dll
+C:\Users\Zuice\Downloads\Agent\Core.Logging.Sqlite\bin\Debug\x86\SQLite.Interop.dll
+C:\Users\Zuice\Downloads\Agent\Core.Logging.Sqlite\bin\Debug\Agent.Core.Logging.Sqlite.dll
+C:\Users\Zuice\Downloads\Agent\Core.Logging.Sqlite\bin\Debug\Agent.Core.Logging.Sqlite.pdb
+C:\Users\Zuice\Downloads\Agent\Core.Logging.Sqlite\bin\Debug\Agent.Core.dll
+C:\Users\Zuice\Downloads\Agent\Core.Logging.Sqlite\bin\Debug\Agent.Core.Logging.dll
+C:\Users\Zuice\Downloads\Agent\Core.Logging.Sqlite\bin\Debug\Agent.Sqlite.dll
+C:\Users\Zuice\Downloads\Agent\Core.Logging.Sqlite\bin\Debug\System.Data.SQLite.dll
+C:\Users\Zuice\Downloads\Agent\Core.Logging.Sqlite\bin\Debug\Agent.Common.dll
+C:\Users\Zuice\Downloads\Agent\Core.Logging.Sqlite\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Zuice\Downloads\Agent\Core.Logging.Sqlite\bin\Debug\Agent.Core.Logging.pdb
+C:\Users\Zuice\Downloads\Agent\Core.Logging.Sqlite\bin\Debug\Agent.Core.pdb
+C:\Users\Zuice\Downloads\Agent\Core.Logging.Sqlite\bin\Debug\Agent.Sqlite.pdb
+C:\Users\Zuice\Downloads\Agent\Core.Logging.Sqlite\bin\Debug\System.Data.SQLite.xml
+C:\Users\Zuice\Downloads\Agent\Core.Logging.Sqlite\bin\Debug\Agent.Common.pdb
+C:\Users\Zuice\Downloads\Agent\Core.Logging.Sqlite\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Zuice\Downloads\Agent\Core.Logging.Sqlite\obj\Debug\Core.Logging.Sqlite.csprojResolveAssemblyReference.cache
+C:\Users\Zuice\Downloads\Agent\Core.Logging.Sqlite\obj\Debug\Agent.Core.Logging.Sqlite.dll
+C:\Users\Zuice\Downloads\Agent\Core.Logging.Sqlite\obj\Debug\Agent.Core.Logging.Sqlite.pdb
+E:\programming portfolio\Agent\Core.Logging.Sqlite\bin\Debug\x64\SQLite.Interop.dll
+E:\programming portfolio\Agent\Core.Logging.Sqlite\bin\Debug\x86\SQLite.Interop.dll
+E:\programming portfolio\Agent\Core.Logging.Sqlite\bin\Debug\Agent.Core.Logging.Sqlite.dll
+E:\programming portfolio\Agent\Core.Logging.Sqlite\bin\Debug\Agent.Core.Logging.Sqlite.pdb
+E:\programming portfolio\Agent\Core.Logging.Sqlite\bin\Debug\Agent.Core.dll
+E:\programming portfolio\Agent\Core.Logging.Sqlite\bin\Debug\Agent.Core.Logging.dll
+E:\programming portfolio\Agent\Core.Logging.Sqlite\bin\Debug\Agent.Sqlite.dll
+E:\programming portfolio\Agent\Core.Logging.Sqlite\bin\Debug\System.Data.SQLite.dll
+E:\programming portfolio\Agent\Core.Logging.Sqlite\bin\Debug\Agent.Common.dll
+E:\programming portfolio\Agent\Core.Logging.Sqlite\bin\Debug\Newtonsoft.Json.dll
+E:\programming portfolio\Agent\Core.Logging.Sqlite\bin\Debug\Agent.Core.Logging.pdb
+E:\programming portfolio\Agent\Core.Logging.Sqlite\bin\Debug\Agent.Core.pdb
+E:\programming portfolio\Agent\Core.Logging.Sqlite\bin\Debug\Agent.Sqlite.pdb
+E:\programming portfolio\Agent\Core.Logging.Sqlite\bin\Debug\System.Data.SQLite.xml
+E:\programming portfolio\Agent\Core.Logging.Sqlite\bin\Debug\Agent.Common.pdb
+E:\programming portfolio\Agent\Core.Logging.Sqlite\bin\Debug\Newtonsoft.Json.xml
+E:\programming portfolio\Agent\Core.Logging.Sqlite\obj\Debug\Core.Logging.Sqlite.csprojResolveAssemblyReference.cache
+E:\programming portfolio\Agent\Core.Logging.Sqlite\obj\Debug\Agent.Core.Logging.Sqlite.dll
+E:\programming portfolio\Agent\Core.Logging.Sqlite\obj\Debug\Agent.Core.Logging.Sqlite.pdb
+G:\programming portfolio\Agent\Core.Logging.Sqlite\bin\Debug\x64\SQLite.Interop.dll
+G:\programming portfolio\Agent\Core.Logging.Sqlite\bin\Debug\x86\SQLite.Interop.dll
+G:\programming portfolio\Agent\Core.Logging.Sqlite\bin\Debug\Agent.Core.Logging.Sqlite.dll
+G:\programming portfolio\Agent\Core.Logging.Sqlite\bin\Debug\Agent.Core.Logging.Sqlite.pdb
+G:\programming portfolio\Agent\Core.Logging.Sqlite\bin\Debug\Agent.Core.dll
+G:\programming portfolio\Agent\Core.Logging.Sqlite\bin\Debug\Agent.Core.Logging.dll
+G:\programming portfolio\Agent\Core.Logging.Sqlite\bin\Debug\Agent.Sqlite.dll
+G:\programming portfolio\Agent\Core.Logging.Sqlite\bin\Debug\System.Data.SQLite.dll
+G:\programming portfolio\Agent\Core.Logging.Sqlite\bin\Debug\Agent.Common.dll
+G:\programming portfolio\Agent\Core.Logging.Sqlite\bin\Debug\Newtonsoft.Json.dll
+G:\programming portfolio\Agent\Core.Logging.Sqlite\bin\Debug\Agent.Core.Logging.pdb
+G:\programming portfolio\Agent\Core.Logging.Sqlite\bin\Debug\Agent.Core.pdb
+G:\programming portfolio\Agent\Core.Logging.Sqlite\bin\Debug\Agent.Sqlite.pdb
+G:\programming portfolio\Agent\Core.Logging.Sqlite\bin\Debug\System.Data.SQLite.xml
+G:\programming portfolio\Agent\Core.Logging.Sqlite\bin\Debug\Agent.Common.pdb
+G:\programming portfolio\Agent\Core.Logging.Sqlite\bin\Debug\Newtonsoft.Json.xml
+G:\programming portfolio\Agent\Core.Logging.Sqlite\obj\Debug\Core.Logging.Sqlite.csprojAssemblyReference.cache
+G:\programming portfolio\Agent\Core.Logging.Sqlite\obj\Debug\Core.Logging.Sqlite.csproj.CoreCompileInputs.cache
+G:\programming portfolio\Agent\Core.Logging.Sqlite\obj\Debug\Core.Logging.Sqlite.csproj.CopyComplete
+G:\programming portfolio\Agent\Core.Logging.Sqlite\obj\Debug\Agent.Core.Logging.Sqlite.dll
+G:\programming portfolio\Agent\Core.Logging.Sqlite\obj\Debug\Agent.Core.Logging.Sqlite.pdb

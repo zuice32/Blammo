@@ -1,0 +1,18 @@
+C:\Users\sthorndike\Documents\Visual Studio 2013\Projects\geonet-agent-dev\Core.Exceptions\bin\Release\Agent.Core.Exceptions.dll
+C:\Users\sthorndike\Documents\Visual Studio 2013\Projects\geonet-agent-dev\Core.Exceptions\bin\Release\Agent.Core.Exceptions.pdb
+C:\Users\sthorndike\Documents\Visual Studio 2013\Projects\geonet-agent-dev\Core.Exceptions\bin\Release\Agent.Core.dll
+C:\Users\sthorndike\Documents\Visual Studio 2013\Projects\geonet-agent-dev\Core.Exceptions\bin\Release\Agent.Core.pdb
+C:\Users\sthorndike\Documents\Visual Studio 2013\Projects\geonet-agent-dev\Core.Exceptions\obj\Release\Agent.Core.Exceptions.dll
+C:\Users\sthorndike\Documents\Visual Studio 2013\Projects\geonet-agent-dev\Core.Exceptions\obj\Release\Agent.Core.Exceptions.pdb
+C:\Users\sthorndike\Documents\Visual Studio 2013\Projects\geonet-agent-dev\Core.Exceptions\obj\Release\Core.Exceptions.csprojResolveAssemblyReference.cache
+C:\Users\sthorndike\Documents\Visual Studio 2013\Projects\geonet-agent-dev\Core.Exceptions\bin\Release\Newtonsoft.Json.dll
+C:\Users\sthorndike\Documents\Visual Studio 2013\Projects\geonet-agent-dev\Core.Exceptions\bin\Release\Newtonsoft.Json.xml
+C:\Users\Zuice\Downloads\Agent\Core.Exceptions\bin\Release\Agent.Core.Exceptions.dll
+C:\Users\Zuice\Downloads\Agent\Core.Exceptions\bin\Release\Agent.Core.Exceptions.pdb
+C:\Users\Zuice\Downloads\Agent\Core.Exceptions\bin\Release\Agent.Core.dll
+C:\Users\Zuice\Downloads\Agent\Core.Exceptions\bin\Release\Newtonsoft.Json.dll
+C:\Users\Zuice\Downloads\Agent\Core.Exceptions\bin\Release\Agent.Core.pdb
+C:\Users\Zuice\Downloads\Agent\Core.Exceptions\bin\Release\Newtonsoft.Json.xml
+C:\Users\Zuice\Downloads\Agent\Core.Exceptions\obj\Release\Core.Exceptions.csprojResolveAssemblyReference.cache
+C:\Users\Zuice\Downloads\Agent\Core.Exceptions\obj\Release\Agent.Core.Exceptions.dll
+C:\Users\Zuice\Downloads\Agent\Core.Exceptions\obj\Release\Agent.Core.Exceptions.pdb

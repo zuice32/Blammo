@@ -1,0 +1,37 @@
+C:\Users\sthorndike\Documents\Visual Studio 2013\Projects\geonet-agent-dev\Core.Exceptions\bin\Debug\Agent.Core.Exceptions.dll
+C:\Users\sthorndike\Documents\Visual Studio 2013\Projects\geonet-agent-dev\Core.Exceptions\bin\Debug\Agent.Core.Exceptions.pdb
+C:\Users\sthorndike\Documents\Visual Studio 2013\Projects\geonet-agent-dev\Core.Exceptions\bin\Debug\Agent.Core.dll
+C:\Users\sthorndike\Documents\Visual Studio 2013\Projects\geonet-agent-dev\Core.Exceptions\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sthorndike\Documents\Visual Studio 2013\Projects\geonet-agent-dev\Core.Exceptions\bin\Debug\Agent.Core.pdb
+C:\Users\sthorndike\Documents\Visual Studio 2013\Projects\geonet-agent-dev\Core.Exceptions\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sthorndike\Documents\Visual Studio 2013\Projects\geonet-agent-dev\Core.Exceptions\obj\Debug\Agent.Core.Exceptions.dll
+C:\Users\sthorndike\Documents\Visual Studio 2013\Projects\geonet-agent-dev\Core.Exceptions\obj\Debug\Agent.Core.Exceptions.pdb
+C:\Users\Zuice\Downloads\Agent\Core.Exceptions\bin\Debug\Agent.Core.Exceptions.dll
+C:\Users\Zuice\Downloads\Agent\Core.Exceptions\bin\Debug\Agent.Core.Exceptions.pdb
+C:\Users\Zuice\Downloads\Agent\Core.Exceptions\bin\Debug\Agent.Core.dll
+C:\Users\Zuice\Downloads\Agent\Core.Exceptions\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Zuice\Downloads\Agent\Core.Exceptions\bin\Debug\Agent.Core.pdb
+C:\Users\Zuice\Downloads\Agent\Core.Exceptions\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Zuice\Downloads\Agent\Core.Exceptions\obj\Debug\Core.Exceptions.csprojResolveAssemblyReference.cache
+C:\Users\Zuice\Downloads\Agent\Core.Exceptions\obj\Debug\Agent.Core.Exceptions.dll
+C:\Users\Zuice\Downloads\Agent\Core.Exceptions\obj\Debug\Agent.Core.Exceptions.pdb
+E:\programming portfolio\Agent\Core.Exceptions\bin\Debug\Agent.Core.Exceptions.dll
+E:\programming portfolio\Agent\Core.Exceptions\bin\Debug\Agent.Core.Exceptions.pdb
+E:\programming portfolio\Agent\Core.Exceptions\bin\Debug\Agent.Core.dll
+E:\programming portfolio\Agent\Core.Exceptions\bin\Debug\Newtonsoft.Json.dll
+E:\programming portfolio\Agent\Core.Exceptions\bin\Debug\Agent.Core.pdb
+E:\programming portfolio\Agent\Core.Exceptions\bin\Debug\Newtonsoft.Json.xml
+E:\programming portfolio\Agent\Core.Exceptions\obj\Debug\Core.Exceptions.csprojResolveAssemblyReference.cache
+E:\programming portfolio\Agent\Core.Exceptions\obj\Debug\Agent.Core.Exceptions.dll
+E:\programming portfolio\Agent\Core.Exceptions\obj\Debug\Agent.Core.Exceptions.pdb
+G:\programming portfolio\Agent\Core.Exceptions\bin\Debug\Agent.Core.Exceptions.dll
+G:\programming portfolio\Agent\Core.Exceptions\bin\Debug\Agent.Core.Exceptions.pdb
+G:\programming portfolio\Agent\Core.Exceptions\bin\Debug\Agent.Core.dll
+G:\programming portfolio\Agent\Core.Exceptions\bin\Debug\Newtonsoft.Json.dll
+G:\programming portfolio\Agent\Core.Exceptions\bin\Debug\Agent.Core.pdb
+G:\programming portfolio\Agent\Core.Exceptions\bin\Debug\Newtonsoft.Json.xml
+G:\programming portfolio\Agent\Core.Exceptions\obj\Debug\Core.Exceptions.csprojAssemblyReference.cache
+G:\programming portfolio\Agent\Core.Exceptions\obj\Debug\Core.Exceptions.csproj.CoreCompileInputs.cache
+G:\programming portfolio\Agent\Core.Exceptions\obj\Debug\Core.Exceptions.csproj.CopyComplete
+G:\programming portfolio\Agent\Core.Exceptions\obj\Debug\Agent.Core.Exceptions.dll
+G:\programming portfolio\Agent\Core.Exceptions\obj\Debug\Agent.Core.Exceptions.pdb

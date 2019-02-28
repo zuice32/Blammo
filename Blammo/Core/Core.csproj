@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{F2E934F3-A7FA-40D2-AB9C-C8931811A4B6}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Agent.Core</RootNamespace>
+    <AssemblyName>Agent.Core</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release-Client|AnyCPU'">
+    <OutputPath>bin\Release-Client\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release-Windows.Client|AnyCPU'">
+    <OutputPath>bin\Release-Windows.Client\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Hardware_Debug|AnyCPU'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\Hardware_Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Hardware Debug|AnyCPU'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\Hardware Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Newtonsoft.Json, Version=6.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\Newtonsoft.Json.6.0.4\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Device" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="..\GlobalAssemblyInfo.cs">
+      <Link>Properties\GlobalAssemblyInfo.cs</Link>
+    </Compile>
+    <Compile Include="Application\AgentApplication.cs" />
+    <Compile Include="Application\AgentIdentity.cs" />
+    <Compile Include="Application\IAgentIdentity.cs" />
+    <Compile Include="AppLogger.cs" />
+    <Compile Include="Licensing\IApplicationLicenseService.cs" />
+    <Compile Include="Licensing\ILicenseInfo.cs" />
+    <Compile Include="Licensing\NullLicenseService.cs" />
+    <Compile Include="Exceptions\IExceptionHandler.cs" />
+    <Compile Include="Exceptions\IExceptionLogEntryModifier.cs" />
+    <Compile Include="Exceptions\IExceptionStrategy.cs" />
+    <Compile Include="Exceptions\IMultiStrategy.cs" />
+    <Compile Include="Licensing\UnlicensedApplicationException.cs" />
+    <Compile Include="Application\IApplicationWatchdog.cs" />
+    <Compile Include="Application\IApplicationSemaphoreService.cs" />
+    <Compile Include="Logging\IApplicationLog.cs" />
+    <Compile Include="Logging\ILogEntry.cs" />
+    <Compile Include="Logging\ILogFilter.cs" />
+    <Compile Include="Logging\ILogFilterList.cs" />
+    <Compile Include="Logging\ILogRepository.cs" />
+    <Compile Include="Logging\ILogWriter.cs" />
+    <Compile Include="Logging\LogEntry.cs" />
+    <Compile Include="Misc\CircularDictionary.cs" />
+    <Compile Include="Misc\CircularList.cs" />
+    <Compile Include="Misc\Converter.cs" />
+    <Compile Include="Misc\DataPoint.cs" />
+    <Compile Include="Misc\DebugUtils.cs" />
+    <Compile Include="Misc\Range.cs" />
+    <Compile Include="Misc\RetryHelper.cs" />
+    <Compile Include="Misc\Units.cs" />
+    <Compile Include="Misc\Win32Api.cs" />
+    <Compile Include="Misc\WindDirectionAverager.cs" />
+    <Compile Include="SensorNetworks\ChannelValue.cs" />
+    <Compile Include="SensorNetworks\ISensorHostReading.cs" />
+    <Compile Include="SensorNetworks\InvalidChannelValueException.cs" />
+    <Compile Include="SensorNetworks\ISensorHostFaultRecorder.cs" />
+    <Compile Include="SensorNetworks\ISensorHostInfoRepository.cs" />
+    <Compile Include="SensorNetworks\ISensorHostProxy.cs" />
+    <Compile Include="SensorNetworks\ISensorHostInfo.cs" />
+    <Compile Include="SensorNetworks\ISensorHostReadingRepository.cs" />
+    <Compile Include="SensorNetworks\ISensorHostReadingRecorder.cs" />
+    <Compile Include="SensorNetworks\ISensorHostSettings.cs" />
+    <Compile Include="SensorNetworks\ISensorHostSettingsRepository.cs" />
+    <Compile Include="SensorNetworks\ISensorNetworkService.cs" />
+    <Compile Include="SensorNetworks\ISensorRecordingService.cs" />
+    <Compile Include="Services\IApplicationService.cs" />
+    <Compile Include="Services\IApplicationServiceBus.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Services\IDependencyResolver.cs" />
+    <Compile Include="Settings\InMemorySettingsProvider.cs" />
+    <Compile Include="Settings\ISettingsProvider.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Settings\Setting.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <CO_FirstProject>True</CO_FirstProject>
+    <CO_LastProject>False</CO_LastProject>
+    <CO_Config>Release.Client|AnyCPU</CO_Config>
+    <CO_ProjectFilePath>..\Windows.Service_Release_AnyCPU.obproj</CO_ProjectFilePath>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release-Windows.Client|AnyCPU' ">
+    <CO_FirstProject>True</CO_FirstProject>
+    <CO_LastProject>False</CO_LastProject>
+    <CO_Config>Release-Windows.Client|AnyCPU</CO_Config>
+    <CO_ProjectFilePath>..\Windows.Client_Release-Windows.Client_AnyCPU.obproj</CO_ProjectFilePath>
+  </PropertyGroup>
+  
+</Project>

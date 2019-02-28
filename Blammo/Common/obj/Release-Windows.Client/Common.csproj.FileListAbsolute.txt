@@ -1,0 +1,8 @@
+C:\Users\sthorndike\Documents\Visual Studio 2013\Projects\geonet-agent-dev\Common\bin\Release-Windows.Client\Agent.Common.dll
+C:\Users\sthorndike\Documents\Visual Studio 2013\Projects\geonet-agent-dev\Common\bin\Release-Windows.Client\Agent.Common.pdb
+C:\Users\sthorndike\Documents\Visual Studio 2013\Projects\geonet-agent-dev\Common\obj\Release-Windows.Client\Agent.Common.dll
+C:\Users\sthorndike\Documents\Visual Studio 2013\Projects\geonet-agent-dev\Common\obj\Release-Windows.Client\Agent.Common.pdb
+C:\Users\Zuice\Downloads\Agent\Common\bin\Release-Windows.Client\Agent.Common.dll
+C:\Users\Zuice\Downloads\Agent\Common\bin\Release-Windows.Client\Agent.Common.pdb
+C:\Users\Zuice\Downloads\Agent\Common\obj\Release-Windows.Client\Agent.Common.dll
+C:\Users\Zuice\Downloads\Agent\Common\obj\Release-Windows.Client\Agent.Common.pdb

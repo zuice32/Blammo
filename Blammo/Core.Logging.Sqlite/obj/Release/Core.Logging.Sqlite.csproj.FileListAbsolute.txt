@@ -1,0 +1,38 @@
+C:\Users\sthorndike\Documents\Visual Studio 2013\Projects\geonet-agent-dev\Core.Logging.Sqlite\bin\Release\x64\SQLite.Interop.dll
+C:\Users\sthorndike\Documents\Visual Studio 2013\Projects\geonet-agent-dev\Core.Logging.Sqlite\bin\Release\x86\SQLite.Interop.dll
+C:\Users\sthorndike\Documents\Visual Studio 2013\Projects\geonet-agent-dev\Core.Logging.Sqlite\bin\Release\Agent.Core.Logging.Sqlite.dll
+C:\Users\sthorndike\Documents\Visual Studio 2013\Projects\geonet-agent-dev\Core.Logging.Sqlite\bin\Release\Agent.Core.Logging.Sqlite.pdb
+C:\Users\sthorndike\Documents\Visual Studio 2013\Projects\geonet-agent-dev\Core.Logging.Sqlite\bin\Release\Agent.Core.dll
+C:\Users\sthorndike\Documents\Visual Studio 2013\Projects\geonet-agent-dev\Core.Logging.Sqlite\bin\Release\Agent.Core.Logging.dll
+C:\Users\sthorndike\Documents\Visual Studio 2013\Projects\geonet-agent-dev\Core.Logging.Sqlite\bin\Release\Agent.Sqlite.dll
+C:\Users\sthorndike\Documents\Visual Studio 2013\Projects\geonet-agent-dev\Core.Logging.Sqlite\bin\Release\System.Data.SQLite.dll
+C:\Users\sthorndike\Documents\Visual Studio 2013\Projects\geonet-agent-dev\Core.Logging.Sqlite\bin\Release\Agent.Common.dll
+C:\Users\sthorndike\Documents\Visual Studio 2013\Projects\geonet-agent-dev\Core.Logging.Sqlite\bin\Release\Newtonsoft.Json.dll
+C:\Users\sthorndike\Documents\Visual Studio 2013\Projects\geonet-agent-dev\Core.Logging.Sqlite\bin\Release\Agent.Core.Logging.pdb
+C:\Users\sthorndike\Documents\Visual Studio 2013\Projects\geonet-agent-dev\Core.Logging.Sqlite\bin\Release\Agent.Core.pdb
+C:\Users\sthorndike\Documents\Visual Studio 2013\Projects\geonet-agent-dev\Core.Logging.Sqlite\bin\Release\Agent.Sqlite.pdb
+C:\Users\sthorndike\Documents\Visual Studio 2013\Projects\geonet-agent-dev\Core.Logging.Sqlite\bin\Release\System.Data.SQLite.xml
+C:\Users\sthorndike\Documents\Visual Studio 2013\Projects\geonet-agent-dev\Core.Logging.Sqlite\bin\Release\Agent.Common.pdb
+C:\Users\sthorndike\Documents\Visual Studio 2013\Projects\geonet-agent-dev\Core.Logging.Sqlite\bin\Release\Newtonsoft.Json.xml
+C:\Users\sthorndike\Documents\Visual Studio 2013\Projects\geonet-agent-dev\Core.Logging.Sqlite\obj\Release\Agent.Core.Logging.Sqlite.dll
+C:\Users\sthorndike\Documents\Visual Studio 2013\Projects\geonet-agent-dev\Core.Logging.Sqlite\obj\Release\Agent.Core.Logging.Sqlite.pdb
+C:\Users\sthorndike\Documents\Visual Studio 2013\Projects\geonet-agent-dev\Core.Logging.Sqlite\obj\Release\Core.Logging.Sqlite.csprojResolveAssemblyReference.cache
+C:\Users\Zuice\Downloads\Agent\Core.Logging.Sqlite\bin\Release\x64\SQLite.Interop.dll
+C:\Users\Zuice\Downloads\Agent\Core.Logging.Sqlite\bin\Release\x86\SQLite.Interop.dll
+C:\Users\Zuice\Downloads\Agent\Core.Logging.Sqlite\bin\Release\Agent.Core.Logging.Sqlite.dll
+C:\Users\Zuice\Downloads\Agent\Core.Logging.Sqlite\bin\Release\Agent.Core.Logging.Sqlite.pdb
+C:\Users\Zuice\Downloads\Agent\Core.Logging.Sqlite\bin\Release\Agent.Core.dll
+C:\Users\Zuice\Downloads\Agent\Core.Logging.Sqlite\bin\Release\Agent.Core.Logging.dll
+C:\Users\Zuice\Downloads\Agent\Core.Logging.Sqlite\bin\Release\Agent.Sqlite.dll
+C:\Users\Zuice\Downloads\Agent\Core.Logging.Sqlite\bin\Release\System.Data.SQLite.dll
+C:\Users\Zuice\Downloads\Agent\Core.Logging.Sqlite\bin\Release\Agent.Common.dll
+C:\Users\Zuice\Downloads\Agent\Core.Logging.Sqlite\bin\Release\Newtonsoft.Json.dll
+C:\Users\Zuice\Downloads\Agent\Core.Logging.Sqlite\bin\Release\Agent.Core.Logging.pdb
+C:\Users\Zuice\Downloads\Agent\Core.Logging.Sqlite\bin\Release\Agent.Core.pdb
+C:\Users\Zuice\Downloads\Agent\Core.Logging.Sqlite\bin\Release\Agent.Sqlite.pdb
+C:\Users\Zuice\Downloads\Agent\Core.Logging.Sqlite\bin\Release\System.Data.SQLite.xml
+C:\Users\Zuice\Downloads\Agent\Core.Logging.Sqlite\bin\Release\Agent.Common.pdb
+C:\Users\Zuice\Downloads\Agent\Core.Logging.Sqlite\bin\Release\Newtonsoft.Json.xml
+C:\Users\Zuice\Downloads\Agent\Core.Logging.Sqlite\obj\Release\Core.Logging.Sqlite.csprojResolveAssemblyReference.cache
+C:\Users\Zuice\Downloads\Agent\Core.Logging.Sqlite\obj\Release\Agent.Core.Logging.Sqlite.dll
+C:\Users\Zuice\Downloads\Agent\Core.Logging.Sqlite\obj\Release\Agent.Core.Logging.Sqlite.pdb
